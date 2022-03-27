@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(blue 50%,yellow 50%);
+    font-family: 'Lato', sans-serif;
+    height: 50%;
+    margin-bottom: 50%;
+    text-align: center;
+    padding: 4em 10em;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+button{
+    background-color: #000;
+    font-size: 1rem;
+    padding: 1em 2em;
+    text-align: center;
+    margin: 0 1em;
+    border-radius: 3em;
+    border: none;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+button:hover{
+    background-color: yellow;
+    color: black;
+}
